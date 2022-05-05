@@ -1,0 +1,22 @@
+.input-group-text:hover {
+    cursor: pointer;
+}
+
+.date {
+    padding: 0;
+}
+
+.image_nhanvien {
+    width: 80px;
+}
+
+.imageEmployeeEdit {
+    width: 80px;
+
+}
+
+#imageEmployeeEdit {
+    width: 100px;
+}
+
+
